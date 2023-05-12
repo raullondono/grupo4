@@ -10,5 +10,5 @@ phases:
         - echo Build completerd successfully
 artifacts:
   files:
-    - target/demo-0.0.1-SNAPSHOT.jar
+    - target/grupo4.jar
   discard-paths: yes
